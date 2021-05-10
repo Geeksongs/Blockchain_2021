@@ -1,0 +1,13 @@
+version = 1
+
+test_patterns = [
+  
+]
+
+exclude_patterns = [
+  
+]
+
+[[analyzers]]
+enabled = true
+runtime_version = '3.x.x'
